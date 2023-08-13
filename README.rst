@@ -65,5 +65,3 @@ Amending Commits and Force Pushing
    Replace `branch_name` with the name of the branch you're working on.
 
 Note: Force pushing can overwrite changes on the remote repository. Use it with caution, especially if others are collaborating on the same branch.
-
-...
