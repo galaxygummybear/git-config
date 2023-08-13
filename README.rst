@@ -66,3 +66,4 @@ Amending Commits and Force Pushing
 
 Note: Force pushing can overwrite changes on the remote repository. Use it with caution, especially if others are collaborating on the same branch.
 
+...
